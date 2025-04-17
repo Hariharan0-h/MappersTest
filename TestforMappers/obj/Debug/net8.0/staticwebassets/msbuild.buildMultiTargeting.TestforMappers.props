@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TestforMappers.props" />
+</Project>
